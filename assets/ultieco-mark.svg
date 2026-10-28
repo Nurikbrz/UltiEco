@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="title desc">
+  <title id="title">UltiEco logo</title>
+  <desc id="desc">Three connected nodes in a U shape</desc>
+  <path d="M17 17V37C17 50 25 57 36 57S55 50 55 37V17" fill="none" stroke="#8A7CFF" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="17" cy="16" r="6" fill="#67E8CF"/>
+  <circle cx="55" cy="16" r="6" fill="#67E8CF"/>
+  <circle cx="36" cy="57" r="6" fill="#F3F6FF"/>
+</svg>

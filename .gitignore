@@ -1,0 +1,24 @@
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# Build artifacts
+node_modules/
+dist/
+build/
+target/
+coverage/
+.cache/
+*.log
